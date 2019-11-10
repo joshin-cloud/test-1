@@ -17,7 +17,7 @@ body{
 
 .front{
   display: flex;
-  background-image: url(KROWL-coding/images/main_visual.jpg);
+  background-image: url(main_visual.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   color: #efefef;
